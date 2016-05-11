@@ -2,21 +2,21 @@
 ## Generality
 **Matrix Compatibility** Create in OpenOffice-basic this tools generate automatically PDFs from matrixes of data. These arrays of data concern the compatibility of items to each other.
 ##MAIN sheet
-Is the control panel to maintain the matrixes
+Control panel to maintain the matrixes
 ## CompA sheet
-Is the matrix for the compatibility "A"
+Matrix for the compatibility "A"
 ## LinkCompA sheet
 Is the matrix for recording the source of information for the compatibility "A"
 ## CompB sheet
-Is the matrix for the compatibility "B"
+Matrix for the compatibility "B"
 ## LinkCompB sheet
-Is the matrix for recording the source of information for the compatibility "B"
+Matrix to recording the source of information for the compatibility "B"
 ## Addresses sheet
-Link for information of each item
+Link for information about each item
 ## Notes sheet
-A note for each item
+A note about each item
 ## Links
-Reference for LinkCompA and LinkCompB
+Reference table for LinkCompA and LinkCompB
 ## Colors
 Colors in any sheet
 ## Text (to do)
