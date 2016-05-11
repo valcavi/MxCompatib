@@ -1,6 +1,6 @@
 # MxCompatib
-## Generality
-**Matrix Compatibility** Create in OpenOffice-basic this tools generate automatically PDFs from matrixes of data. These arrays of data concern the compatibility of items to each other.
+This tools generate automatically PDFs from matrixes of data. These arrays of data concern the compatibility of items to each other.
+[![ ](https://github.com/valcavi/MxCompatib/raw/master/img01.jpg)](#features)
 ##MAIN sheet
 Control panel to maintain the matrixes
 ## CompA sheet
